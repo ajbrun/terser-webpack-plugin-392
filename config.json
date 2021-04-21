@@ -1,0 +1,9 @@
+{
+    "configSection1": {
+      "setting1": "KEY",
+      "setting2": true
+    },
+    "configSection2":{
+        "siteKey": "SITE_KEY"
+    }
+  }
