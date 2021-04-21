@@ -19,6 +19,7 @@ module.exports = {
             /.*\.json/ //But I would have expected config.json to be unmangled with this?
         ], 
         terserOptions: {
+          mangle: true,
           format: {
             comments: false,
           },
